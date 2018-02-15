@@ -1,0 +1,5 @@
+1) GraphScript:https://stackoverflow.com/questions/9378420/how-to-plot-cdf-in-matplotlib-in-python
+
+2)https://www.javatpoint.com/shell-scripting-tutorial
+
+3)https://www.tutorialspoint.com/awk/

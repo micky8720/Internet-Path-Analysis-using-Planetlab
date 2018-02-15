@@ -1,0 +1,15 @@
+Code for copying file from node to its
+scp albany_ccn9@planetlab3.comp.nus.edu.sg:ketul/SingaporeToUs.txt /home1/s/k/kp645225/ccn/project2/
+scp albany_ccn9@planetlab04.cs.washington.edu:ketul/UsToSingapore.txt /home1/s/k/kp645225/ccn/project2/
+scp albany_ccn9@planetlab2.inf.ethz.ch:ketul/SwitzerlandToBrazil.txt /home1/s/k/kp645225/ccn/project2/
+scp albany_ccn9@planetlab1.pop-pa.rnp.br:ketul/BrazilToSwitzerland.txt /home1/s/k/kp645225/ccn/project2/
+scp albany_ccn9@planetlab4.cs.uoregon.edu:ketul/OregonToMichigan.txt /home1/s/k/kp645225/ccn/project2/
+scp albany_ccn9@planetlab5.eecs.umich.edu:ketul/MichiganToOregon.txt /home1/s/k/kp645225/ccn/project2/
+scp albany_ccn9@PLANETLAB1.CS.PURDUE.edu:ketul/IndianaToTexas.txt /home1/s/k/kp645225/ccn/project2/
+scp albany_ccn9@PLANETLAB2.UTDALLAS.EDU:ketul/TexasToIndiana.txt /home1/s/k/kp645225/ccn/project2/
+scp albany_ccn9@saturn.planetlab.carleton.ca:ketul/CanadaToOhio.txt /home1/s/k/kp645225/ccn/project2/
+scp albany_ccn9@planetlab-5.eecs.cwru.edu:ketul/OhioToCanada.txt /home1/s/k/kp645225/ccn/project2/
+scp albany_ccn9@planetlab3.rutgers.edu:ketul/NJToNewzealand.txt /home1/s/k/kp645225/ccn/project2/
+scp albany_ccn9@planetlab-n1.wand.net.nz:ketul/NewzealandToNJ.txt /home1/s/k/kp645225/ccn/project2/
+scp albany_ccn9@planetlab01.cs.washington.edu:ketul/WashingtonToCzech.txt /home1/s/k/kp645225/ccn/project2/
+scp albany_ccn9@planetlab3.cesnet.cz:ketul/CzechToWashington.txt /home1/s/k/kp645225/ccn/project2/

@@ -1,0 +1,101 @@
+1)BrazilToSwitzerland
+  No. of stars:1487
+  No.of hope in one tracreroute:18
+  No.of total packets in one traceroute: 18*3=54
+  No.totaal traceroute:427
+  Percentage of failure:(1487)*100/(427*54)= 6.4489%
+  
+2)BrazilToSwitzerland
+  No. of stars:6562
+  No.of hope in one tracreroute:16
+  No.of total packets in one traceroute: 16*3=48
+  No.totaal traceroute:427
+  Percentage of failure:(6562)*100/(427*48)= 32.016%
+    
+3)CanadaToOhio
+  No. of stars:2556
+  No.of hope in one tracreroute:18
+  No.of total packets in one traceroute: 18*3=54
+  No.totaal traceroute:426
+  Percentage of failure:(2556)*100/(426*54)= 11.111%  
+
+4)OhioToCanada
+  No. of stars:5125
+  No.of hope in one tracreroute:18
+  No.of total packets in one traceroute: 18*3=54
+  No.totaal traceroute:426
+  Percentage of failure:(5125)*100/(426*54)= 22.278%  
+
+  
+5)CzechToWashington
+  No. of stars:2043
+  No.of hope in one tracreroute:19
+  No.of total packets in one traceroute: 19*3=57
+  No.totaal traceroute:340
+  Percentage of failure:(2043)*100/(340*57)= 10.541%  
+
+6)WashingtonToCzech
+  No. of stars:0
+  No.of hope in one tracreroute:19
+  No.of total packets in one traceroute: 19*3=57
+  No.totaal traceroute:340
+  Percentage of failure:0%
+  
+7)IndianaToTexas
+  No. of stars:1341
+  No.of hope in one tracreroute:10
+  No.of total packets in one traceroute: 10*3=30
+  No.totaal traceroute:426
+  Percentage of failure:(1341)*100/(426*30)= 10.492%    
+  
+8)TexasToIndiana
+  No. of stars:9
+  No.of hope in one tracreroute:11
+  No.of total packets in one traceroute: 11*3=33
+  No.totaal traceroute:416
+  Percentage of failure:(9)*100/(416*33)= 0.0655% 
+
+9)MichiganToOregon
+  No. of stars:3906
+  No.of hope in one tracreroute:16
+  No.of total packets in one traceroute: 16*3=48
+  No.totaal traceroute:427
+  Percentage of failure:(3906)*100/(427*48)= 19.057%   
+  
+10)OregonToMichigan
+  No. of stars:3843
+  No.of hope in one tracreroute:14
+  No.of total packets in one traceroute: 14*3=42
+  No.totaal traceroute:427
+  Percentage of failure:(3843)*100/(427*42)= 21.428% 
+
+
+11)SingaporeToUs
+  No. of stars:3000
+  No.of hope in one tracreroute:20
+  No.of total packets in one traceroute: 20*3=60
+  No.totaal traceroute:426
+  Percentage of failure:(3000)*100/(426*60)= 11.737% 
+  
+12)UsToSingapore
+  No. of stars:0
+  No.of hope in one tracreroute:20
+  No.of total packets in one traceroute: 20*3=60
+  No.totaal traceroute:426
+  Percentage of failure:0%
+    
+  
+ 
+13)NJToNewzealand
+  No. of stars:6
+  No.of hope in one tracreroute:24
+  No.of total packets in one traceroute: 24*3=72
+  No.totaal traceroute:341
+  Percentage of failure:(6)*100/(341*72)= 0.024%  
+   
+13)NewzealandToNJ
+  No. of stars:5100
+  No.of hope in one tracreroute:21
+  No.of total packets in one traceroute: 21*3=63
+  No.totaal traceroute:340
+  Percentage of failure:(5100)*100/(340*63)= 23.8095%  

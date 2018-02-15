@@ -1,0 +1,67 @@
+1)Packet Loss
+
+awk '
+/^PING / {h=$2}
+/packet loss/ {pl=$6}
+/min\/avg\/max/ {
+split($4,a,"/")
+printf("%s \n",pl)
+}
+' (Name of the file To be Read).txt > (Name Of the result File To Get Output).txt
+
+2)Min
+
+awk '
+/^PING / {h=$2}
+/packet loss/ {pl=$6}
+/min\/avg\/max/ {
+split($4,a,"/")
+printf("%s \n",a[1])
+}
+' (Name of the file To be Read).txt > (Name Of the result File To Get Output).txt
+
+3)Avg
+
+awk '
+/^PING / {h=$2}
+/packet loss/ {pl=$6}
+/min\/avg\/max/ {
+split($4,a,"/")
+printf("%s \n",a[2])
+}
+' (Name of the file To be Read).txt > (Name Of the result File To Get Output).txt
+
+4)Max
+
+awk '
+/^PING / {h=$2}
+/packet loss/ {pl=$6}
+/min\/avg\/max/ {
+split($4,a,"/")
+printf("%s \n",a[3])
+}
+' (Name of the file To be Read).txt > (Name Of the result File To Get Output).txt
+
+5)Mdev
+
+awk '
+/^PING / {h=$2}
+/packet loss/ {pl=$6}
+/min\/avg\/max/ {
+split($4,a,"/")
+printf("%s \n",a[2])
+}
+' (Name of the file To be Read).txt
+
+6)Outages
+
+cat (Name of the file To be Read).txt | gawk '(/*/){print $0}'
+
+7)Hopcount
+
+cat (Name of the file To be Read) | gawk '(/hops/){print $5}'
+
+8)Packets
+
+cat (Name of the file To be Read) | gawk '(/icmp_seq/){print $0}'
+

@@ -1,0 +1,21 @@
+
+TRans Pacific::
+1.Singapore:planetlab3.comp.nus.edu.sg   and Washington:planetlab04.cs.washington.edu 
+2.planetlab-n1.wand.net.nz    and planetlab3.rutgers.edu
+Trans Atlantic::
+1:planetlab2.inf.ethz.ch	    and planetlab1.pop-pa.rnp.br
+1.CZech Republic:planetlab3.cesnet.cz	  and Washington:planetlab01.cs.washington.edu
+US to US:
+1.planetlab4.cs.uoregon.edu and planetlab5.eecs.umich.edu
+2.PLANETLAB1.CS.PURDUE.edu  and PLANETLAB2.UTDALLAS.EDU	
+US to Canada
+3.saturn.planetlab.carleton.ca and planetlab-5.eecs.cwru.edu	
+
+
+
+
+
+
+
+
+
